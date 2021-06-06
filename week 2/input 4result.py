@@ -1,0 +1,10 @@
+a=int(input("input A : "))
+b=int(input("input B : "))
+result=a+b
+print(a,"+",b,"=",result)
+result=a-b
+print(a,"-",b,"=",result)
+result=a*b
+print(a,"*",b,"=",result)
+result=a/b
+print(a,"/",b,"=",result)
